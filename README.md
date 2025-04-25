@@ -48,9 +48,47 @@ Please be advised that absolutely **no food or drink** are allowed inside the Me
 ## Resources
 Please join the Transit Hacks discord for all resources, including direct links to multiple APIs, Wrappers, and other Pre-built tech solutions by members of the UChicago community. Some developers are on the server as well to troubleshoot.
 
-Judges and mentors, when not with us in-person, will monitor the Discord for teams in need of assistance and provide support there. 
-
-https://discord.gg/bcg7wYu7
+Some services require an API key in advance, Hackathon staff will endeavor to get keys in advance for some applications but these will be shared across teams and could be rate limited. For the most flexibility, consider requesting a key in advance (especially Metra).
+### Chicago Transit Authority
+#### Bus Tracker API
+https://www.transitchicago.com/developers/bustracker/
+#### Train Tracker API
+https://www.transitchicago.com/developers/traintracker/
+#### Open Data Portal
+https://www.transitchicago.com/data/
+#### Ridership Reports
+https://www.transitchicago.com/ridership/
+### Divvy
+#### Live Station Information
+https://gbfs.divvybikes.com/gbfs/2.3/gbfs.json
+#### Trip History Data
+https://divvy-tripdata.s3.amazonaws.com/index.html
+### Metra
+#### General Transit Feed Specification Data (GTFS)
+https://metra.com/developers
+### University Transportation 
+#### PassioGO! API - by @swissmenace 
+https://github.com/athuler/PassioGo
+#### UChicagoShuttles.com API - by @swissmenace 
+https://uchicagoshuttles.com/
+#### UIC Ride Endpoints
+These are some endpoints I discovered in the TransLoc backend:
+- **GetVehiclePoints** https://uicride.transloc.com/Services/JSONPRelay.svc/GetMapVehiclePoints?apiKey=8882812681&isPublicMap=true
+- **GetVehicleCapacities** https://uicride.transloc.com/Services/JSONPRelay.svc/GetVehicleCapacities
+- **GetVehicleRouteStopEstimates** https://uicride.transloc.com/Services/JSONPRelay.svc/GetVehicleRouteStopEstimates?quantity=2&vehicleIdStrings=12
+#### Northwestern TripShot
+Inspect Element -> Network shows a ton of endpoints https://northwestern.tripshot.com/
+### General Use
+#### McFadden Transit Reliability API
+https://brandonmcfadden.com/transit-api
+#### McFadden CTA Reliability
+https://github.com/brandonmcfadd/cta-reliability
+#### McFadden Metra Reliability
+https://brandonmcfadden.com/metra-reliability
+#### City of Chicago Open Data
+https://data.cityofchicago.org/
+#### @kameranis's CTA API Wrapper and Scheduler
+https://github.com/kameranis/cta-analysis
 
 ## Judging Criteria
 Projects will be judged on the following criteria:
@@ -75,6 +113,9 @@ There will be a 1st place winner and 2nd place winner.
 Submissions must be in by **6:30 PM** and uploaded to the Devpost site for the Hackathon at https://transit-hacks-2025.devpost.com/. Teams should submit a public GitHub repository link containing their code, a README file explaining the project, a pdf version of your presentation slides (if used), and any supplementary materials.​
 
 ## Still need help?
-Ask in the Discord: https://discord.gg/bcg7wYu7
+
+Judges and mentors, when not with us in-person, will monitor the Discord for teams in need of assistance and provide support there. 
+
+https://discord.gg/bcg7wYu7
 
 Happy hacking!
