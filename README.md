@@ -15,7 +15,25 @@ Visit https://maps.uchicago.edu/ for a campus map.
 ## Internet Connectivity
 Hackers are encouraged to use the *eduroam* network for the most secure and fastest internet connection at the University. Off-campus students in a participating institution, such as UIC, can enroll in *eduroam* on their device prior to arriving. For UIC/UIUC/UIS students, that information can be found at https://help.uillinois.edu/TDClient/37/uic/KB/ArticleDet?ID=898.
 
-If you are not with an *eduroam* participating institution, please see a member of Hackathon staff to get connected. *uchicago-guest* is available, but is not secure and is slower than other networks. The login information for this network is:
+If you are not with an *eduroam* participating institution, please see a member of Hackathon staff to get connected. *uchicago-guest* is available, but is not secure and is slower than other networks. The login information for this network is: [TBA]
+
+## Schedule
+*Subject to change*
+
+**12:00pm – 12:30pm**
+Introduction / team formation / Lunch
+
+**12:30pm – 6:30pm**
+Free work time - SUBMISSIONS DUE 6:30 PM
+
+**6:30pm – 7:00pm**
+Dinner served
+
+**7:00pm – 8:00pm**
+Presentations and judging
+
+**8:00pm – 8:30pm**
+Awards ceremony, wrap-up
 
 ## Food and Beverage
 We’ll have a snack area open by Peach’s Cafe throughout the day with an assortment of fruits, chips, and gummy snacks. Please be aware of any dietary restrictions while enjoying any snack, we don’t make any guarantee of their compliance with certain dietary needs.
