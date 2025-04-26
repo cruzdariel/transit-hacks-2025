@@ -15,7 +15,9 @@ Visit https://maps.uchicago.edu/ for a campus map.
 ## Internet Connectivity
 Hackers are encouraged to use the *eduroam* network for the most secure and fastest internet connection at the University. Off-campus students in a participating institution, such as UIC, can enroll in *eduroam* on their device prior to arriving. For UIC/UIUC/UIS students, that information can be found at https://help.uillinois.edu/TDClient/37/uic/KB/ArticleDet?ID=898.
 
-If you are not with an *eduroam* participating institution, please see a member of Hackathon staff to get connected. *uchicago-guest* is available, but is not secure and is slower than other networks. The login information for this network is: [TBA]
+If you are not with an *eduroam* participating institution, please see a member of Hackathon staff to get connected. *uchicago-guest* is available, but is not secure and is slower than other networks. The login information for this network is: username,password
+**Username:** ucguest_48875
+**Password:** r7gds
 
 ## Schedule
 *Subject to change*
